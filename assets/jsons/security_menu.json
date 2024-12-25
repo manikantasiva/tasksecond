@@ -1,0 +1,16 @@
+[
+  {
+    "index": 0,
+    "title": "Visitors",
+    "selectedImg": "assets/images/visitors_selected.png",
+    "unselectedImg": "assets/images/employees_unselected.png",
+    "isSelected": true
+  },
+  {
+    "index": 1,
+    "title": "Vehicles",
+    "selectedImg": "assets/images/vehicles_selected.png",
+    "unselectedImg": "assets/images/vehicles_unselected.png",
+    "isSelected": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "title": "Jaggayapet",
+    "selectedImg": "Jaggayapet,Andhra Pradesh",
+    "isSelected": false
+  },
+  {
+    "index": 1,
+    "title": "Madhapur",
+    "selectedImg": "Hyderabad, Telangana",
+    "isSelected": false
+  },
+  {
+    "index": 2,
+    "title": "Paramount ALPS",
+    "selectedImg": "Hyderabad, Telangana",
+    "isSelected": false
+  },
+  {
+    "index": 3,
+    "title": "Paramount APLS",
+    "selectedImg": "Banglore, Karnataka",
+    "isSelected": false
+  }
+]

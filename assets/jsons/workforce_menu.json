@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "title": "Employees",
+    "selectedImg": "assets/images/employees_selected.png",
+    "unselectedImg": "assets/images/employees_unselected.png",
+    "isSelected": true
+  },
+  {
+    "index": 1,
+    "title": "Attendance",
+    "selectedImg": "assets/images/attendance_selected.png",
+    "unselectedImg": "assets/images/attendance_unselected.png",
+    "isSelected": false
+  },
+  {
+    "index": 2,
+    "title": "Timesheet",
+    "selectedImg": "assets/images/timesheet_selected.png",
+    "unselectedImg": "assets/images/timesheet_unselected.png",
+    "isSelected": false
+  },
+  {
+    "index": 3,
+    "title": "Leaves",
+    "selectedImg": "assets/images/leaves_selected.png",
+    "unselectedImg": "assets/images/leaves_unselected.png",
+    "isSelected": false
+  },
+  {
+    "index": 4,
+    "title": "Holidays",
+    "selectedImg": "assets/images/holidays_selected.png",
+    "unselectedImg": "assets/images/holidays_unselected.png",
+    "isSelected": false
+  }
+]

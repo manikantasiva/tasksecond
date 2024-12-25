@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "title": "Export",
+    "selectedImg": "assets/images/edit_outlined.png",
+    "isSelected": false
+  },
+  {
+    "index": 1,
+    "title": "Edit",
+    "selectedImg": "assets/images/edit_outlined.png",
+    "isSelected": false
+  },
+  {
+    "index": 2,
+    "title": "One Time Code",
+    "selectedImg": "assets/images/passcode_outlined.png",
+    "isSelected": false
+  },
+  {
+    "index": 3,
+    "title": "ID Card",
+    "selectedImg": "assets/images/id_outlined.png",
+    "isSelected": false
+  },
+  {
+    "index": 4,
+    "title": "Facial Registration",
+    "selectedImg": "assets/images/face_outlined.png",
+    "isSelected": false
+  },
+  {
+    "index": 5,
+    "title": "Delete",
+    "selectedImg": "assets/images/delete_outlined.png",
+    "isSelected": false
+  }
+]

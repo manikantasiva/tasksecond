@@ -1,0 +1,16 @@
+[
+  {
+    "index": 0,
+    "title": "code",
+    "selectedImg": "assets/images/scan_code.svg",
+    "unselectedImg": "assets/images/code_gray.svg",
+    "isSelected": true
+  },
+  {
+    "index": 1,
+    "title": "scan",
+    "selectedImg": "assets/images/scan_blue.svg",
+    "unselectedImg": "assets/images/scan_gray.svg",
+    "isSelected": false
+  }
+]
